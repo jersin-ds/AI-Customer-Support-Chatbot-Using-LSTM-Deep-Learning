@@ -57,14 +57,31 @@ Run the project using the appropriate Python script or Jupyter Notebook included
 ## 📂 Project Structure
 
 ```text
-AI-Customer-Support-Chatbot-Using-LSTM-Deep-Learning/
-│
-├── dataset/
-├── notebooks/
-├── models/
-├── app.py
-├── requirements.txt
-└── README.md
+AI-Customer-Support-Chatbot-Using-LSTM-Deep-Learning
+
+models/
+
+lstm_chatbot.keras
+
+tokenizer.pkl
+
+label_encoder.pkl
+
+response_dict.pkl
+
+
+app.py
+
+README.md
+
+requirements.txt
+
+LICENSE
+
+.gitignore
+
+notebooks/
+Optional: training notebook
 ```
 
 *Note: Adjust this structure to match the actual files in your repository.*
